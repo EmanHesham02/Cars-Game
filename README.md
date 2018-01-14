@@ -26,7 +26,6 @@ Game Must Be On host “Local or Internet host” as the p5.js Library have some
 
 ## Authors
 
-* **Billie Thompson** 
 1.	Mohamed Hisham 
 2.	Hisham Mohamed
 3.	Sherif Zakaria
