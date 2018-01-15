@@ -16,12 +16,15 @@ Mobile Device “MUST” be on Portrait Mode only
 
 
 ## Deployment
-Game Must Be On host “Local or Internet host” as the p5.js Library have some restrictions on working offline 
+* Game Must Be On host “Local or Internet host” as the p5.js Library have some restrictions on working offline 
+* JQuery is Loaded from internet , so you must have Internet Connection
 
 
 ## Built With
 
 * [P5](https://p5js.org/) - The Js Library Used
+* [jQuery](https://jquery.com/) - Used in Scoreboard Page
+
 
 
 ## Authors
