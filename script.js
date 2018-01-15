@@ -418,7 +418,7 @@ function collisionDetect() {
       //Cars Collision Detection 
      
       if (mybottom <= othertop || mytop > otherbottom-(xWidth*2)*0.09 || myright-10 <= otherleft || myleft >= otherright) {
-          Game_over = false;
+         
       }
       else {
 
